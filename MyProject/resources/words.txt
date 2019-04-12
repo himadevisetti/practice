@@ -1,0 +1,10 @@
+waterbottle
+cellphone
+pen
+paper
+clipboard
+earphones
+bar
+book
+laptop
+cable
